@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi, good to see you!
+Welcome to my GitHub account. Here I post the source codes of my projects.
 
-<!--
-**julheer/julheer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Let's get acquainted?
+I live in the Russian Federation, but this does not prevent me from studying English. I practice JavaScript programming (using Node.JS) and also gradually learn TypeScript. Soon I plan to start developing games for Unity.
 
-Here are some ideas to get you started:
+## Projects I have participated in:
+  * Multifunctional Discord bot "Kerdokan"
+  * Own game production team
+  * MongoDB and Python: YouTube video playlist (RUSSIAN)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My profile stats:
+ ![Julheer's statistic](https://github-readme-stats.vercel.app/api?username=julheer)
